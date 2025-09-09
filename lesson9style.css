@@ -1,0 +1,38 @@
+body {
+    background-image: url(space.jpg);
+    /* 
+    background-repeat: no-repeat;
+    background-size: cover
+    */
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: greenyellow;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+.square {
+    width: 100px; 
+    height: 100px; 
+    background-color: green; 
+    text-align: center;
+}
+
+.container {
+    background: #020024;
+    background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    box-shadow: 2px 4px 5px black;
+}
+
+.borderImg {
+    border: 4px solid white;
+}
+
+#space {
+    color: white;
+}
